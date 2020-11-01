@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#06A1CF</color>
+    <color name="colorPrimaryDark">#21C2F3</color>
+    <color name="white">#E4E9EC</color>
+    <color name="colorAccent">#00BCD4</color>
+    <color name="darkgray">#102652</color>
+    <color name="bgInput">#9ad4d0d0</color>
+    <color name="textTabLight">#A8EBF7</color>
+    <color name="textTabRight">#FFFFFF</color>
+    <color name="bg">#6C767C</color>
+</resources>

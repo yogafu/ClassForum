@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/pesan" android:title="Message" android:icon="@drawable/ic_mail_black_24dp"  />
+    <item android:id="@+id/tambah" android:title="Add Homework" android:icon="@drawable/ic_note_add_black_24dp"/>
+    <item android:id="@+id/settings" android:title="Settings" android:icon="@drawable/ic_settings_black_24dp"/>
+    <item android:id="@+id/about" android:title="About" android:icon="@drawable/info"/>
+    <item android:id="@+id/logout" android:title="Logout" android:icon="@drawable/ic_chevron_left_black_24dp"/>
+
+</menu>

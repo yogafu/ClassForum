@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:background="@drawable/bg_user"
+    android:padding="20dp">
+
+    <ImageView
+        android:id="@+id/navImgProfile"
+        android:layout_width="239dp"
+        android:layout_height="75dp"
+        android:contentDescription="TODO"
+        android:cropToPadding="true"
+        android:src="@drawable/loginforumclass" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Experience for Study"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+</LinearLayout>
